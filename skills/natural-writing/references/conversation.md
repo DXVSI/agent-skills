@@ -1,6 +1,6 @@
 # Conversation examples
 
-All examples are fictional. They do not describe completed work, real people, or the user's actual results. Quoted Russian messages are sample data for a casual chat register; the same rules apply in any language.
+All examples are fictional. They do not describe completed work, real people, or the user's actual results. Quoted drafts use a casual chat register; the same rules apply in any language the user writes in.
 
 ## Replies and reports to the user
 
@@ -62,16 +62,16 @@ Given: the user's own chat messages are short, lowercase, and informal. The prod
 
 Weak:
 
-> Здравствуйте!
-> Меня зовут [Ваше имя], я представляю проект Kvizoria. Мы заинтересованы в размещении рекламы в вашем канале. Подскажите, пожалуйста:
-> 1) **Стоимость** размещения
-> 2) **Охват** публикации
-> 3) **Ближайшие** свободные даты
-> Заранее спасибо за ответ!
+> Dear Sir or Madam,
+> My name is [Your Name], and I represent the Kvizoria project. We are interested in advertising in your channel. Could you please let us know:
+> 1) **Cost** of placement
+> 2) **Reach** of the post
+> 3) **Earliest** available dates
+> Thank you in advance for your reply!
 
 Better:
 
-> привет, хочу купить у вас рекламу. проект Kvizoria, викторина на деньги: отвечаешь на вопросы на время, призы выводятся на карту. 18+. такое берете? если да, скиньте цену за пост, охват и ближайшую свободную дату
+> hi, i'd like to buy an ad in your channel. the project is Kvizoria, a quiz for real money: you answer timed questions and prizes are paid out to a bank card. 18+. do you take ads like this? if yes, send me the price per post, your reach, and the next free slot
 
 The better draft matches the user's register, states what the product is and its age limit, and asks the three questions in one sentence. It has no placeholder, numbered list, or stock courtesy lines, and it can be sent as is.
 
@@ -81,9 +81,9 @@ Given: the same offer goes to several channels.
 
 Better:
 
-> привет, есть реклама для вашего канала: Kvizoria, викторина на деньги, 18+, призы выводятся на карту. сколько стоит пост и какой охват?
+> hi, got an ad for your channel: Kvizoria, a real-money quiz, 18+, prizes are paid out to a card. how much is a post and what's your reach?
 
-> привет. ищу размещение для Kvizoria, это викторина с денежными призами, 18+. берете такое? если да, напишите цену, охват и когда ближайшее место
+> hi. looking for a slot for Kvizoria, a quiz with cash prizes, 18+. do you take ads like this? if so, what's the price, the reach, and the next free date?
 
 The wording differs; the facts and the offer do not. Personalize a variant only with details you have checked, such as the channel's topic.
 
@@ -99,7 +99,7 @@ Keep the offer attractive through real properties, and keep material conditions 
 
 ## Negotiation
 
-In these examples the other side writes informally and uses "ты", so the drafts do too. With a formal counterpart, make the same moves in a formal register.
+In these examples the other side writes informally, so the drafts do too. With a formal counterpart, make the same moves in a formal register.
 
 ### Counter with a reason
 
@@ -107,11 +107,11 @@ Given: the channel replied with a price of 90 per day. The user approved up to 6
 
 Weak:
 
-> Здравствуйте! Спасибо большое за ваш ответ! К сожалению, указанная стоимость превышает наш бюджет. Не могли бы вы рассмотреть возможность предоставления скидки?
+> Hello! Thank you so much for your reply! Unfortunately, the quoted price exceeds our budget. Would you be able to consider offering a discount?
 
 Better:
 
-> 90 за сутки для первого теста дороговато. давай 60 за 24 часа, если зайдет, возьмем неделю
+> 90 a day is a bit much for a first test. let's do 60 for 24 hours, and if it works we'll book a week
 
 No second greeting. The counteroffer names its reason, stays within the approved limit, and offers a future benefit only because the user approved the week.
 
@@ -121,29 +121,29 @@ Given: the channel offers four posts for 420, then one post for 230 as its lowes
 
 Weak, closes the door:
 
-> К сожалению, ваше предложение не укладывается в наш бюджет. Благодарим за уделённое время, всего доброго!
+> Unfortunately, your offer does not fit our budget. Thank you for your time, and all the best!
 
 Weak, promises what was not approved:
 
-> понял, дорого. давай так: сейчас 100, а через месяц возьмем у тебя пакет на 600
+> got it, that's expensive. how about this: 100 now, and next month we'll buy a 600 package from you
 
 Better:
 
-> слушай, пойми правильно, мы сейчас только тестим. на весь тест у нас 150 на все каналы. если пойдут первые игроки, поднимем бюджет и вернемся к тебе первым
+> look, don't get me wrong, we're only testing right now. the whole test budget is 150 across all channels. if the first players come in, we'll raise the budget and you'll be the first one we come back to
 
 The better draft explains the situation instead of haggling, names the real constraint, and gives the real condition for coming back. The weak drafts either end the relationship or commit the user to a purchase nobody approved.
 
 ### Pressure after a decline
 
-Given: after the refusal, the seller writes "за эти деньги ты такой охват нигде не найдешь. решай сам". For that reach, the price is in fact good.
+Given: after the refusal, the seller writes "you won't find this reach anywhere for that money. your call". For that reach, the price is in fact good.
 
 Weak:
 
-> понимаю, но и ты пойми: мы маленький проект, денег мало, мы и так отдали на рекламу все что могли. может все-таки 150?
+> i get it, but see it from our side too: we're a small project, money is tight, we've already put everything we could into ads. maybe 150 after all?
 
 Better:
 
-> согласен, цена правда хорошая. как будут первые результаты теста, сразу напишу
+> agreed, the price really is good. as soon as the test shows first results, i'll message you
 
 Agree with what is true, repeat the condition once, and stop. Justification invites another round of pressure, and a new bid reopens a question that was already closed.
 
@@ -153,28 +153,28 @@ Given: the seller will not go below 100 for a 24-hour post. The user approved up
 
 Weak:
 
-> ну может хотя бы 90? ну пожалуйста
+> maybe 90 at least? please
 
 Better:
 
-> ок, по цене понял. давай 100, но пост висит без удаления трое суток
+> ok, got it on the price. let's do 100, but the post stays up for three days without being deleted
 
 When the seller agrees, confirm the terms and ask for the next step in one message:
 
-> ок, 100 за пост на трое суток подходит. напиши куда оплатить и какие даты свободны
+> ok, 100 for a post that stays up three days works. tell me where to pay and which dates are free
 
 When the price stops moving, ask for something the seller can give cheaply. The agent collects the payment details; the user checks them and pays.
 
 ### Answer a direct question honestly
 
-Given: the seller asks "это можно считать казино?". The product is a paid quiz with cash prizes: players pay an entry fee and can lose it.
+Given: the seller asks "so is this basically a casino?". The product is a paid quiz with cash prizes: players pay an entry fee and can lose it.
 
 Weak:
 
-> нет, что ты, это развлекательное приложение с элементами геймификации
+> no, not at all, it's an entertainment app with gamification elements
 
 Better:
 
-> по сути да, игра на деньги: платишь за вход, призы выводятся на карту. 18+
+> basically yes, it's a game for money: you pay to enter, and prizes are paid out to a card. 18+
 
 The seller will find out anyway. An evasive answer turns into a refused post or a dispute after payment.

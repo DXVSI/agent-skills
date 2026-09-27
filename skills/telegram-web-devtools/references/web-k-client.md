@@ -69,7 +69,7 @@ Click the input, type each line, and press Shift+Enter between lines; Enter send
 
 ## Paid messages
 
-Some users charge Telegram Stars for each incoming message. The chat then shows an input placeholder such as "Message for ★N" (in the Russian interface, "Сообщение за ★N") or a notice that the chat charges Stars for each message. `send-tg.mjs` looks for these markers in the input area and the start of the chat and skips the chat. Do not send there without the user's explicit consent, and never buy Stars.
+Some users charge Telegram Stars for each incoming message. The chat then shows an input placeholder such as "Message for ★N" (translated when the interface uses another language) or a notice that the chat charges Stars for each message. `send-tg.mjs` looks for these markers in the input area and the start of the chat and skips the chat. Do not send there without the user's explicit consent, and never buy Stars.
 
 ## Connection state
 

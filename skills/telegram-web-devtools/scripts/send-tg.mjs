@@ -57,6 +57,7 @@ for (let i = 0; i < 20; i++) {
 }
 if (!ready?.onPeer || !ready.hasInput) finish('skip', { reason: 'chat not ready', peerId, ready }, 3);
 // Some accounts charge Telegram Stars per message; never send there without the user's explicit consent.
+// The pattern also matches the Russian interface wording, since the UI language follows the user's settings.
 if (/Message for|Сообщение за|charges|★/i.test(ready.inputText + ' ' + ready.centerText)) finish('skip', { reason: 'paid messages', peerId, header: ready.header, inputText: norm(ready.inputText) }, 4);
 if (dry) finish('dry-ok', { peerId, header: ready.header });
 

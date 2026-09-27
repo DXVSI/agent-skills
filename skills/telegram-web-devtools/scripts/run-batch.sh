@@ -37,6 +37,7 @@ while IFS=$'\t' read -r user msg || [ -n "$user" ]; do
     0|3|4|5) ;;
     *) echo "STOP: unexpected result for @$user"; exit 1 ;;
   esac
+  # The last pattern is the Russian interface wording of "too many".
   if printf '%s' "$out" | grep -qiE 'flood|too many|слишком много'; then echo "STOP: possible rate limit"; exit 2; fi
 done < "$batch"
 check
