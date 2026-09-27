@@ -10,4 +10,6 @@ The source is an essay based on observations. Individual stylistic features do n
 
 Selected editorial observations were rewritten for agent communication and translated into English. The adaptation adds original teaching examples and instructions to preserve technical accuracy, quotations, and machine-readable content. Wikipedia-specific formatting conventions are not imposed on chat: Markdown, direct address, lists, and tables remain appropriate when they serve the task.
 
+The sections on talking with the user and drafting messages sent on the user's behalf, and the [conversation examples](conversation.md), are original guidance by DXVSI drawn from agent work sessions. They are not adapted from the essay.
+
 The essay's explanations of model internals and methods for detecting generated text are not adopted as technical claims. This skill is intended to improve clarity.
